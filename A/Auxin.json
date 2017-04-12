@@ -1,0 +1,14 @@
+{
+  "term":"Auxin",
+  "tags":["Botany"],
+  "definition": [
+    {"paragraph1":"An auxin is a plant hormone that is primarily involved in regulating plant growth. Auxins are the main cause behind the elongation of cells in plants. Auxins, however, have different effects on the roots and the shoots of a plant. A high auxin concentration in the shoot can cause the shoot's cells to grow faster whereas a high auxin concentration in the root can cause the cells in the shoots to grow slowly."},
+    {"paragraph2":"Auxins also control the pattern of epidermal cells in a leaf."},
+    {"paragraph3":"Knowing about auxins can help a gardener to direct the plant's growth in a certain direction."}
+  ],
+  "explanation": [
+    {"paragraph1":"The concentration of auxins in a plant's roots and shoots determine how they react to gravity and light."},
+    {"paragraph2":"For example, plant shoots typically grow towards light. In this scenario, the side of the plant that is not facing the light has a higher concentration of auxin. The shaded side grows longer as the auxin causes the cells to multiply, and hence the plant grows toward the light. Blue light is the most effective stimulant for shoot growth."},
+    {"paragraph3":"The auxin in plant shoots cause them to grow away from gravity or upwards, while the auxins in roots cause them to grow towards gravity or downwards."}
+  ]
+}

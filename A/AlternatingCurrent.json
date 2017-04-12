@@ -1,0 +1,14 @@
+{
+  "term":"Alternating Current (AC)",
+  "tags":["Tools", "Equipment"],
+  "definition": [
+    {"paragraph1":"Alternating current (AC) is a stream of electrical energy that reverses direction back and forth and is commonly used as a power supply."},
+    {"paragraph2":"Due to its constancy, efficiency and ability to maintain its energy, AC is the preferred type for most homes and industry."}
+  ],
+  "explanation": [
+    {"paragraph1":"There are two types of electrical current: alternating current (AC) and direct current (DC). The difference is that AC is a pulsating flow of current whereas DC is a smooth continual flow."},
+    {"paragraph2":"DC is relatively easy to produce; however, it loses energy as it travels long distances, and doesn’t maintain the prolonged high voltage required for industrial purposes as easily. It also isn’t as suitable or efficient for high energy appliances that heat or cool."}
+    {"paragraph3":"Although more difficult to produce, alternating current has the ability to be carried hundreds or thousands of miles from where it was produced. Direct current, on the other hand, can only be carried a few miles from the production source."}
+    {"paragraph4":"AC also has the advantage of efficiency and constancy. When an alternating current of 120 volts is produced, its remains 120 volts at its point of use, whereas direct current isn't as stable and will lose voltage the further it travels."}
+  ]
+}

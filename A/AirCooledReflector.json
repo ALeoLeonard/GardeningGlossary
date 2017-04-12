@@ -1,0 +1,13 @@
+{
+  "term":"Air-cooled Reflector",
+  "tags":["Lighting"],
+  "definition": [
+    {"paragraph1":"In hydroponic systems and other types of indoor growing, artificial light must be supplied to plants. A reflector used on top of the lighting system ensures maximum light dispersal, but they can become quite hot. An air-cooled reflector reduces heat, and helps maintain temperature within a growing area."}
+  ],
+  "explanation": [
+    {"paragraph1":"In any sort of indoor gardening application, whether you’re talking about container gardening in an area without much natural light, or a hydroponic system, artificial light must be supplied in order to ensure proper plant growth. Grow lights are usually outfitted with reflectors, which are metal hoods that reflect light back down onto the plants, ensuring maximum light dispersal."},
+    {"paragraph2":"However, those reflectors can become quite hot as they absorb heat from the light. Not only does this make touching the reflector potentially hazardous, but it increases the ambient temperature of the growing area, which is bad for plant health. To combat this, you might need to introduce artificial cooling (air conditioning), which increases your operating costs."},
+    {"paragraph3":"An air-cooled reflector can not only help to reduce the heat buildup within the reflector, but within the room itself. Essentially, air is pumped through the hood (often through a system of baffles), and then out the other side and through an exhaust system. This cools the reflector, reduces the ambient temperature in the room, and ensures healthier plants while reducing operating costs."},
+    {"paragraph4":"One challenge here is to ensure that air-cooled reflectors have a separate source of fresh air from your indoor garden’s ventilation system. Fresh, cool air should be drawn from outdoors, directed through the reflector (or reflectors), and then back outside once more. Using air from the garden ventilation system creates moisture within the reflector’s baffles and the exhaust system, and is warmer than what is ideal for reflector cooling."}
+  ]
+}

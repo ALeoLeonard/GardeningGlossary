@@ -1,0 +1,12 @@
+{
+  "term":"Air Stone",
+  "tags":["Hydroponics"],
+  "definition": [
+    {"paragraph1":"Air stones are small, inexpensive devices that are added to a water tank to create dissolved oxygen in the water or nutrient solution. They come in many different sizes to accommodate a large range of tank sizes."},
+    {"paragraph2":"To create oxygen, an air stone is attached via a small tube to an air pump that sits outside the tank. With the help of the air pump, air stones deliver countless tiny bubbles that are filled with oxygen to the tank. While an air pump and tube can function without the use of an air stone at the end of the line, growers prefer air stones, which help diffuse the oxygen better than what the larger tube is capable of."}
+  ],
+  "explanation": [
+    {"paragraph1":"Often used in fish aquariums, air stones are also a commonly used tool in hydroponic systems to create oxygen for the root zones of plant. Without oxygen, plant roots that are fully submerged in a nutrient solution cannot grow to their full potential; instead, they usually develop an infection from plant pathogens that often leads to root rot."},
+    {"paragraph2":"Because air stones allow plant roots to 'breathe' better when underwater, the plants are better able to take up nutrients. Therefore, many growers who use air stones find that they have to replenish their nutrients a low more frequently. Another thing to consider when using air stones is the temperature of the ambient air being pumped into the system. Plants won't like it if it is too hot."}
+  ]
+}

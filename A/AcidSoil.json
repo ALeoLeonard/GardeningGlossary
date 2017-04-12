@@ -1,0 +1,13 @@
+{
+  "term":"Acid Soil",
+  "tags":["Soil"],
+  "definition": [
+    {"paragraph1":"Acid soil is any soil that falls below 7 on the pH scale - the unit of measure for acidic versus alkaline soil. The pH scale is a numeric system ranging between 0 and 14 used to test the acidity or alkalinity of soil with a measurement of 7 being completely neutral."},
+    {"paragraph2":"Knowing the acidity of your soil is important as there are certain plants such as hydrangea and azalea that thrive in an acid soil, but other plants such as grass that do not."}
+  ],
+  "explanation": [
+    {"paragraph1":"Acid soil can be caused by many things and can occur naturally in areas with high rainfall amounts and by geological factors. Soils high in minerals and clays tend to fall on the acidic side, but acid soil can also be caused by other factors."},
+    {"paragraph2":"Nitrogen from fertilizers can increase the acidity significantly, along with the addition of plant-based organic matter such as compost or leaves. Most often sulfur is used to increase the soil's acidity. Nitrogen leaching from fields or gardens can be a major cause for a sudden increase in soil acidity."}
+    {"paragraph3":"Periodic testing of both the topsoil and subsoil with a pH testing kit purchased from a hardware or garden store will give an accurate measurement of the acidity of a specific area."}
+  ]
+}

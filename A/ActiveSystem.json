@@ -1,0 +1,12 @@
+{
+  "term":"Active System",
+  "tags":["Plant Care"],
+  "definition": [
+    {"paragraph1":"In general, an active system refers to heating or cooling systems that use mechanical means to produce energy. In horticulture, the term active system is used in hydroponics to describe any system with moving parts."}
+  ],
+  "explanation": [
+    {"paragraph1":"An active system in hydroponics is in contrast to a passive system in which there are no moving parts or mechanics involved."},
+    {"paragraph2":"There are six methods of hydroponic gardening. An active system is required with the deep water culture and ebb and flow methods. These are considered active systems because they require moving, mechanical parts to get the job done. In contrast, a wick system is a passive system where a nutrient solution is wicked onto the growing trays."},
+    {"paragraph3":"In water culture, the roots of the plant are totally submersed in nutrient solution and an air pump produces air bubbles or oxygen for the plant roots. The ebb and flow method also uses an active system by temporarily flooding the roots in the growing tray with a pump. The nutrient solution is pumped from a reservoir and surrounds the roots before draining back. The ebb and flow system is usually automated with a water pump on a timer that floods the growing trays at specific intervals."},
+  ]
+}

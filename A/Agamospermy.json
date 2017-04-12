@@ -1,0 +1,19 @@
+{
+  "term":"Agamospermy",
+  "tags":["Seeds"],
+  "definition": [
+    {"paragraph1":"Agamospermy is the asexual production of seeds and embryos without fertilization or meiosis. The term originated from Greek and its etymology stands for “away from” + “mixing”."},
+    {"paragraph2":"Offspring produced through agamospermy are generally identical to the parent plant."},
+    {"paragraph3":"There are three types of agamospermy: adventive embryony (adventive polyembryony), recurrent agamospermy (recurrent apomixis; apospory and diplospory), and non-recurrent agamospermy."}
+  ],
+  "explanation": [
+    {"paragraph1":"Agamospermy occurs in two forms: adventitious embryony (sporophytic apomixis) and gametophytic apomixes. In adventitious embryony, the embryo is formed directly from integument tissue or nucellus, but not from a gametophyte. In gametophytic apomixes, the embryo is formed from an unfertilized egg through parthenogenesis. Agamospermy can occur in over 33 families of flowering plants, and has evolved multiple times from sexual relatives. However, agamospermy can also occur in non-flowering plants such as ferns through a process known as apogamy."},
+    {"paragraph2":"Agamospermy can be classified into three types:"},
+    {"paragraph3":"1. Adventive embryony (adventive polyembryony)"},
+    {"paragraph4":"This is when an embryo is developed directly from the integuments of the ovule or the diploid cell of nucellus, and not from a fertilized egg. In such a case, the embryo formed either degenerates or competes with the adventive embryos."},
+    {"paragraph5":"2. Recurrent agamospermy (recurrent apomixis; apospory and diplospory)"},
+    {"paragraph6":"In this kind of agamospermy, a diploid embryo sac is formed either from the diploid megaspore mother cell by diplospory, for example, Areva tomentose or from the diploid nucellar cells by apospory, for example, pricky pear, mango, citrus, etc. The diploid egg parthenogenetically develops without the act of meiosis or fertilization."},
+    {"paragraph7":"3. Non-recurrent agamospermy"},
+    {"paragraph8":"In non-recurrent agamospermy, the megaspore mother cell meiotically divides to form a haploid embryo sac. Embryos formed from haploid eggs or any other haploid cells are formed without the act of fertilization. Resulting plants from non-recurrent agamospermy are normally sterile, for example, Datura and Zea mays."}
+  ]
+}

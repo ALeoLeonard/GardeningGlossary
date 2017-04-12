@@ -1,0 +1,13 @@
+{
+  "term":"Ammonia",
+  "tags":["Plant Care"],
+  "definition": [
+    {"paragraph1":"Ammonia (NH3) or azane is a compound of nitrogen and hydrogen. It is a colorless gas with a characteristic pungent smell."},
+    {"paragraph2":"Ammonia contributes to the nutritional needs of organisms by serving as a precursor to food and fertilizers. Ammonia is also a building block for the synthesis of many pharmaceutical products and is used in many commercial cleaning products."}
+  ],
+  "explanation": [
+    {"paragraph1":"Ammonia is found in trace quantities in nature, being produced from nitrogen-producing animal and vegetable matter. The kidneys in animals and humans also produce trace amounts of ammonia."},
+    {"paragraph2":"All plants need nitrogen in order synthesize DNA, RNA, enzymes, and other proteins necessary for growth and reproduction. Urea and ammonium-based fertilizers contain large amounts of nitrogen that help plants grow and thrive."},
+    {"paragraph3":"Ammoniacal nitrogen is used in a liquid form as a fertilizer, generally consisting of 46 per cent or more nitrogen and is often used on heavy-feeder crops such as corn or wheat."},
+  ]
+}

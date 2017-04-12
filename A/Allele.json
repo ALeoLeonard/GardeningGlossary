@@ -1,0 +1,11 @@
+{
+  "term":"Allele",
+  "tags":[""],
+  "definition": [
+    {"paragraph1":"An allele refers to one of the two forms of a specific gene. While it is possible for one gene to have several alleles, most plants only have two alleles, from the female and male parent. Consequently, two alleles from the same gene pool can produce both a short and a tall plant, or differently colored flowers from the same plant."}
+  ],
+  "explanation": [
+    {"paragraph1":"Chromosomes occur in pairs in most organisms, and often the genes from each member of the chromosome pair are identical. However, when they are not identical then each gene is referred to as an allele of the other one."},
+    {"paragraph2":"Plants that have only one form are known as homozygous. Plants that have two or more alleles for one single gene are known as heterozygous. Peas, for example, feature varying traits in terms of flower position, stem length, pod shape, flower color, seed color, pod color, and seed coat. In spite of these differences, pea plants belong to the same genetic pool. This was extensively researched by an Austrian monk, Gregor Mendel, in 1866."}
+  ]
+}

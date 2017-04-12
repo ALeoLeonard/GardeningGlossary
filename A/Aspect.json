@@ -1,0 +1,13 @@
+{
+  "term":"Aspect",
+  "tags":["Plant Care"],
+  "definition": [
+    {"paragraph1":"An aspect is the geographical compass direction and/or sun exposure of a specific space."},
+    {"paragraph2":"Aspect can influence the temperature of a particular location. A northern aspect is cooler than one with a southern aspect. An eastern aspect is sometimes considered more favorable than a western."},
+    {"paragraph3":"A compass is frequently used to determine the aspect of an area. The aspect is sometimes considered when laying out or planning the location and orientation of a garden or greenhouse."}
+  ],
+  "explanation": [
+    {"paragraph1":"The aspect of an area can also have an effect on soil conditions. A strong slope can be higher in organic matter than light slopes where wind can blow away valuable top soil and organic matter."},
+    {"paragraph2":"A garden should receive the most light and favorable growing conditions possible, so in most cases a horticulturalist would prefer to lay out a garden with a southern aspect. In southern climates an eastern aspect may be more favorable. To maximize growing conditions, a horticulturalist should be careful to not plant a garden or build a greenhouse with a north or northwest aspect."}
+  ]
+}

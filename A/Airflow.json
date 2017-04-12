@@ -1,0 +1,13 @@
+{
+  "term":"Airflow",
+  "tags":["Tools", "Equipment"],
+  "definition": [
+    {"paragraph1":"Airflow refers to the amount of moving air around a given space or area. It is created by natural means of wind and circulation or it can be created artificially by the mechanical means of a fan or blower unit."},
+    {"paragraph2":"In engineering, airflow is the measurement of the amount of air that mechanically flows through a particular device."}
+  ],
+  "explanation": [
+    {"paragraph1":"Airflow is important in a greenhouse because it aids in temperature control, particularly during the hot daytime hours. One way to increase a greenhouse's or enclosed growing area's airflow, is to mount a fan so it faces the exterior of the structure, on either the front or back of a greenhouse. Running the fan draws the warm air through the greenhouse and blows it outside as a form of ventilation, which increases the room's airflow."},
+    {"paragraph2":"Maintaining good airflow is also important for growers growing indoors and for hydroponic gardening. Inadequate airflow can result in humidity levels becoming too high and growing conditions that get too hot. Both of these conditions can severely affect plant growth."},
+    {"paragraph3":"Adding adequate airflow in and among an indoor garden is also good for toughening up young plants and re-positioning supplemental CO2 levels that many indoor growers choose to add to their rooms."}
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "term":"Algae",
+  "tags":["Plant Types"],
+  "definition": [
+    {"paragraph1":"Algae are any of the various groups of chlorophyll-containing, mostly eukaryotic organisms that range from infinitesimal single-celled forms to multicellular kinds 100 feet (30 meters) or longer. Algae are mainly distinguished from plants because they lack genuine roots, stems, and leaves and by an absence of nonreproductive cells in the reproductive structures."},
+    {"paragraph2":"Algae are characteristically autotrophic since they derive their energy and food from their environment in the form of sunlight."},
+    {"paragraph3":"Algae play a significant role in the food chain as they release large amounts of oxygen on the planet."}
+  ],
+  "explanation": [
+    {"paragraph1":"Algae contain chlorophyll, but what sets them apart from plants is their lack of cells within the reproductive cells. Sometimes algae are considered plants, but they are widely regarded as 'protists', a category of organisms on the basis of them not being Achaeans, bacteria, fungi, plants, or animals."},
+    {"paragraph2":"Both freshwater and marine algae lack distinct tissue and cell types such as phloem, xylem, and stomata, which are found in land plants."},
+    {"paragraph3":"The largest and most complex, fresh water algae are called the Charophyta, a division of green algae composed of algae such as stoneworts and Spirogyra. The most complex marine algae are known as seaweeds."},
+    {"paragraph4":"Algae reproduce through different strategies ranging from compound forms of sexual reproduction via meiosis to simple asexual cell division. In some cases, the algae themselves act as gametes, but in most there exists sperm- and egg-like structures and sex-attractants known as pheromones."},
+    {"paragraph5":"Algae are classified into the six phyla Rhodophyta, Phaeophyta, Chlorophyta, Pyrrophyta, Chrysophyta, and Euglenophyta."}
+  ]
+}
